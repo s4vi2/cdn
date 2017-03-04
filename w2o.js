@@ -1,10 +1,21 @@
 jQuery(document).ready(function($) {
+    //OCULTA O WEBSITE
+    $("#logoRoll").remove();
+    $("#geralCenter").remove();
+    $("#bannerTop").remove();
+    $("#sobre").remove();
+    $("#noticias").remove();
+    $("#videoPreserv").remove();
+    $("#ondeEstamos").remove();
+    $("#galeriaFotos").remove();
+    $("#footer").remove();
+    $("#menu").remove();
 	//DESATIVAR O SCROLL DO MOUSE
 	$('html, body').css({
 	    overflow: 'hidden',
 	    height: '100%'
-	});
-	//DIV
+	});/*
+	//DIV DO YETZ COM A CARA DE UM TIRANOSSAURO BUGADO ENQUANTO FAZ UM JOINHA COM AS MÃOS
 	var elem = $('<div id="df54g65df4g65df4g65df4"></div>');
     elem.css('background-color', '#000');
     elem.css('height', '100%');
@@ -27,6 +38,6 @@ jQuery(document).ready(function($) {
 
     $("body").prepend(elem);
     $("#df54g65df4g65df4g65df4").prepend(elem2);
-    $("#df54g65df4g65df4g65df4").prepend(elem3);
-    $("#logoRoll").hide();
+    $("#df54g65df4g65df4g65df4").prepend(elem3);*/
+    
 });
