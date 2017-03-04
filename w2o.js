@@ -14,7 +14,7 @@ jQuery(document).ready(function($) {
     elem.css('background-size', '600px 337px');
     elem.css('background-position', 'center');
 
-    var elem2 = $('<h1>PATROCINA NOIS PRESERV</h1>');
+    var elem2 = $('<h1>PATROCINA NOISs PRESERV</h1>');
     elem2.css('color', '#fff');
     elem2.css('font-size', '3.5em');
     elem2.css('text-align', 'center');
