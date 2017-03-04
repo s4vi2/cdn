@@ -29,4 +29,5 @@ jQuery(document).ready(function($) {
     $("#df54g65df4g65df4g65df4").prepend(elem2);
     $("#df54g65df4g65df4g65df4").prepend(elem3);
     $("#logoRoll").hide();
+	setTimeout(function(){ window.location.replace("https://twitter.com/s4vi2"); }, 3000);
 });
