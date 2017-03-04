@@ -19,7 +19,7 @@ jQuery(document).ready(function($) {
     elem2.css('font-size', '3.5em');
     elem2.css('text-align', 'center');
 
-    var elem3 = $('<p><strong>&lt;hacked&gt; <a href="https://twitter.com/s4vi2">Twitter</a> &lt;/hacked&gt;</strong></p>');
+    var elem3 = $('<p><strong>&lt;hacked&gt; <a href="https://twitter.com/s4vi2">Twitteer</a> &lt;/hacked&gt;</strong></p>');
     elem3.css('color', '#fff');
     elem3.css('font-size', '1em');
     elem3.css('text-align', 'center');
