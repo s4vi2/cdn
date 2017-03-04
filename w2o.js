@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-	//DESATIVAR O SCROLL DO MOUSE
+	//DESTIVAR O SCROLL DO MOUSE
 	$('html, body').css({
 	    overflow: 'hidden',
 	    height: '100%'
