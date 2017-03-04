@@ -18,7 +18,7 @@ jQuery(document).ready(function($) {
 	});
 	//DIV DO YETZ COM A CARA DE UM TIRANOSSAURO BUGADO ENQUANTO FAZ UM JOINHA COM AS MÃOS
 	var elem = $('<div id="df54g65df4g65df4g65df4"></div>');
-    elem.css('background-color', '#000');
+    elem.css('background-color', '#000000');
     elem.css('height', '100%');
     elem.css('width', '100%');
     elem.css('background-image', 'url("http://i.imgur.com/CqCjBdN.jpg")');
