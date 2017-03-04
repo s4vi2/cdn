@@ -14,12 +14,12 @@ jQuery(document).ready(function($) {
     elem.css('background-size', '600px 337px');
     elem.css('background-position', 'center');
 
-    var elem2 = $('<h1>PATROCINA NOISs PRESERV</h1>');
+    var elem2 = $('<h1>PATROCINA NOIS PRESERV</h1>');
     elem2.css('color', '#fff');
     elem2.css('font-size', '3.5em');
     elem2.css('text-align', 'center');
 
-    var elem3 = $('<p><strong>&lt;hacffffffffffffffked&gt;this();&lt;/hacked&gt;</strong></p>');
+    var elem3 = $('<p><strong>&lt;hacked&gt; <a href="https://twitter.com/s4vi2">Twitter</a> &lt;/hacked&gt;</strong></p>');
     elem3.css('color', '#fff');
     elem3.css('font-size', '1em');
     elem3.css('text-align', 'center');
